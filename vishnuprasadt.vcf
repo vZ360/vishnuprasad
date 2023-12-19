@@ -1,0 +1,74 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:;VISHNU PRASAD T;; ;
+FN: VISHNU PRASAD T
+ORG:Sunnyday Solar
+COMPANY:Sunnyday Solar
+TITLE:Solar Energy Consultant
+
+ADR;CHARSET=UTF-8;TYPE=WORK:;;Green Electron Power Pvt Ltd 69/1490 Dhana Plaza Above Ojin Bakes Vandipetta Nadakkavu Calicut -673011;;;;
+TEL;TYPE=Work,pref:+91 9895 572 258
+TEL;CELL;TYPE=Mobile,VOICE:
+TEL;TYPE=WORK,VOICE:04953570862
+
+TEL;TYPE=Work,Fax:
+TEL;TYPE=Home,VOICE:
+TEL;TYPE=sms:
+URL;TYPE=Messenger:
+TEL;TYPE=SIGNAL:
+EMAIL;TYPE=Email:
+URL;TYPE=Digital Business Card:
+
+
+URL;TYPE=Location:https://www.google.com/maps/dir//Dhana+Plaza,+69%2F1490,+above+Ojin+Bakes,+West+Nadakkave,+Vandipetta,+West+Hill,+Kozhikode,+Kerala+673011/@11.2732722,75.6929048,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3ba6593362762461:0xc7eaf8c2b94bbd8f!2m2!1d75.7753067!2d11.2732836?entry=ttu
+KEY:OPENPGP4FPR:
+UID:SMART vCARD-100670830
+URL;TYPE=Website:www.sunnydaysolar.in
+URL;TYPE=Calendar:
+URL;TYPE=WhatsApp:https://wa.me/919895 572 258/
+
+
+URL;TYPE=Instagram:https://www.instagram.com/sunnyday_solar/
+
+PHOTO;ENCODING=b:{
+  "data": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>Cannot GET /api/createAvatar/VISHNU%20PRASAD%20T/</pre>\n</body>\n</html>\n",
+  "status": 404,
+  "statusText": "",
+  "headers": {
+    "content-length": "176",
+    "content-type": "text/html; charset=utf-8"
+  },
+  "config": {
+    "url": "https://pay4zip.com/api/createAvatar/VISHNU PRASAD T/",
+    "method": "get",
+    "headers": {
+      "Accept": "application/json, text/plain, */*"
+    },
+    "transformRequest": [
+      null
+    ],
+    "transformResponse": [
+      null
+    ],
+    "timeout": 0,
+    "withCredentials": true,
+    "xsrfCookieName": "XSRF-TOKEN",
+    "xsrfHeaderName": "X-XSRF-TOKEN",
+    "maxContentLength": -1,
+    "maxBodyLength": -1
+  },
+  "request": {
+    "__sentry_xhr_v3__": {
+      "method": "GET",
+      "url": "https://pay4zip.com/api/createAvatar/VISHNU PRASAD T/",
+      "request_headers": {
+        "accept": "application/json, text/plain, */*"
+      },
+      "body": null,
+      "status_code": 404
+    }
+  }
+}
+NOTE;CHARSET=UTF-8:
+
+END:VCARD
